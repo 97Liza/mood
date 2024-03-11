@@ -3,3 +3,4 @@ promt
 +
 *
 +1
+print
